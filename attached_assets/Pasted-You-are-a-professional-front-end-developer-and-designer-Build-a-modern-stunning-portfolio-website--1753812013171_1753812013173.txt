@@ -1,0 +1,83 @@
+You are a professional front-end developer and designer. Build a modern, stunning portfolio website for a Data Science and AI student. The website must follow the latest trends like glassmorphism, dark/light mode toggle, responsive design, Tailwind CSS styling, scroll animations, and include real project sections.
+
+Here are the details to include:
+
+### 📌 Personal Information:
+- Full Name: Miraj Ud Din
+- Role: B.S. (AI) Student, 5th Semester
+- University: University of Agriculture, Peshawar, KPK, Pakistan 🇵🇰
+- Location: Peshawar, Khyber Pakhtunkhwa
+- GitHub: https://github.com/mirajuddin1357
+- Portfolio Website: https://mirajuddin1357.github.io/portfolio-website/
+- LinkedIn: https://www.linkedin.com/in/miraj-ud-din-66ba2427a/
+
+### 🧠 Skills to Showcase:
+- Python, SQL, MySQL, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn
+- Machine Learning, Deep Learning, Data Visualization, Data Cleaning
+- Jupyter Notebook, VS Code, Git & GitHub, APIs
+- Microsoft Azure AI Fundamentals Certified (AI-900)
+
+### 🎨 Design Features:
+- Dark mode and light mode toggle
+- Glassmorphism and neumorphism UI sections
+- Hero section with animated intro text and background particles
+- Smooth scroll and section reveal animations using Framer Motion or AOS.js
+- Fully responsive layout (mobile/tablet/desktop)
+
+### 🧩 Pages & Sections:
+1. **Home**:  
+   - Greeting header: “Hi, I’m Miraj Ud Din 👋”  
+   - Short description of AI & Data Science focus  
+   - Button links to LinkedIn, GitHub, Resume  
+
+2. **About Me**:  
+   - Academic background  
+   - Future goals (Machine Learning Engineer, Data Scientist)  
+   - Passion for learning and teaching  
+
+3. **Skills**:  
+   - Display as grid cards with icons/logos  
+   - Grouped by languages, tools, libraries  
+
+4. **Projects**:  
+   - At least 4 real or demo projects  
+   - Each card: Title, description, tech used, GitHub link, live demo link  
+   - Use cards or modal popups for full project view  
+
+5. **Certificates**:  
+   - Highlight AI-900 certification with badge  
+   - Placeholder for Coursera or Google certificates  
+
+6. **Resume**:  
+   - Add downloadable PDF resume  
+   - Show summary of education, skills, experience  
+
+7. **Contact**:  
+   - Contact form with email integration  
+   - Display LinkedIn, GitHub, Email icons  
+   - Add location map of Peshawar (optional)
+
+### ⚙️ Tech Stack to Use:
+- React + Tailwind CSS (preferred)
+- Next.js (optional)
+- AOS.js or Framer Motion for animation
+- FontAwesome/Lucide for icons
+- EmailJS or FormSubmit for contact form
+- GitHub Pages or Vercel for deployment
+
+### 📂 Bonus Features (if possible):
+- Blog section for articles (optional)
+- Project filtering by tags (e.g., Python, AI, SQL)
+- Language switcher (English/Urdu/Pashto)
+- Scroll-to-top button
+- Custom 404 error page
+- Cookie consent bar (optional)
+
+Give me:
+- Complete responsive code (HTML/CSS/JS or React with Tailwind)  
+- Add comments for code clarity  
+- Suggest best hosting options (free and fast)  
+- Give preview link if possible  
+- Add deployment instructions (GitHub Pages, Vercel, Netlify)
+
+This website should look professional, clean, interactive, and modern. It's meant to be shown to international clients, recruiters, and potential collaborators. Prioritize usability, design aesthetics, and performance.
